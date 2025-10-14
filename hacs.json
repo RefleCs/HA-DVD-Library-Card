@@ -1,6 +1,7 @@
 {
   "name": "DVD Library Card",
-  "filename": "dvd-library-card.js",
+  "filename": "dvd-library-grid.js",
   "render_readme": true,
-  "content_in_root": true
+  "content_in_root": true,
+  "homeassistant": "2024.6.0"
 }
