@@ -1,3 +1,3 @@
-# DVD Library Card
-Lovelace card for DVD Library integration.
-Install via HACS  Frontend  Add custom repo.
+# DVD Library Pro Card
+
+Install via HACS as a Dashboard resource.
